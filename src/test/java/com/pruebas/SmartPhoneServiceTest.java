@@ -38,5 +38,7 @@ public class SmartPhoneServiceTest {
         );
     }
 
+    // 7.- Las funciones lambda son subrutinas definidas que no están enlazadas a un identificador
+
 
 }
